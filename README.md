@@ -21,7 +21,7 @@ This dataset contains information about customers of a mall, including demograph
 
 ## Usage
 
-- Can be used for **exploratory data analysis**, **customer segmentation**, **clustering** (e.g., K-Means), and **visualizations in Power BI, Python, or R**.  
+- Can be used for **exploratory data analysis**, **customer segmentation**, and **visualizations in Power BI, Python, or R**.  
 - Ideal for learning and practicing **customer segmentation techniques**.  
 
 ## Notes
