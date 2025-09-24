@@ -1,6 +1,6 @@
 # Mall Customer Segmentation Dataset
 
-This dataset contains information about customers of a mall, including demographic and purchasing behavior attributes. It is commonly used for **customer segmentation and clustering analysis**.
+This dataset contains information about customers of a mall, including demographic and purchasing behavior attributes. It is commonly used for **customer segmentation analysis**.
 
 ## Dataset Description
 
