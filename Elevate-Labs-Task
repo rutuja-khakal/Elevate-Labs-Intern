@@ -1,0 +1,43 @@
+# 📊 Flipkart Sales Performance Dashboard
+
+This project showcases a **Flipkart Sales Performance Dashboard** built using **Power BI**.  
+The dashboard provides key insights into sales performance across different payment methods, product categories, and customer ratings.
+
+---
+
+## 🚀 Features of the Dashboard
+- **KPI Cards**
+  - ✅ Total Sales: 10M  
+  - ✅ Average Sales: 10K  
+  - ✅ Average Rating: 3.02  
+  - ✅ Quantity Sold: 4924  
+
+- **Payment Method Analysis**
+  - COD: 21.81%  
+  - Credit Card: 19.12%  
+  - Debit Card: 22.59%  
+  - Net Banking: 17.33%  
+  - UPI: 19.15%  
+
+- **Product Category Insights**
+  - Grocery leads with **819 units sold**  
+  - Electronics, Fashion, Toys & Baby, Home Decor, Books, Beauty & Health follow closely  
+
+- **Interactive Filters**
+  - Filter data by **Payment Method**  
+  - Filter sales trends by **Year**
+
+---
+
+## 🛠️ Tools Used
+- **Power BI** → Data modeling, DAX calculations, dashboard design  
+- **Excel** → Data source  
+
+---
+
+## 🎯 Key Learnings
+- Built KPI cards to highlight sales performance  
+- Used pie charts & bar charts for clear data visualization  
+- Designed navigation with buttons (Home, Detail, Page 3)  
+- Implemented interactive slicers for dynamic filtering  
+
